@@ -1,0 +1,27 @@
+{
+  "name": "post-slurp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.x"
+  },
+  "scripts": {
+    "dev": "micro-dev",
+    "start": "micro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.2",
+    "micro-ex-router": "^1.5.4",
+    "micro-post": "^1.0.0",
+    "node-fetch": "^2.2.0",
+    "serve-handler": "^3.6.0",
+    "uniqid": "^5.0.3"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}

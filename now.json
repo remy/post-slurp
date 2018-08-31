@@ -1,0 +1,4 @@
+{
+  "alias": "post.isthe.link",
+  "files": ["index.js", "package-lock.json"]
+}
